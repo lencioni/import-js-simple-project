@@ -1,0 +1,24 @@
+{
+  "declaration_keyword": "import",
+  "lookup_paths": [
+    "js"
+  ],
+  "aliases": {
+    "$": "jquery",
+    "React": "react"
+  },
+  "named_exports": {
+    "react": [
+      "Something",
+      "Foo",
+      "Bar",
+      "Fizz",
+      "Buzz",
+      "Baz",
+      "Oakland",
+      "Berkeley",
+      "PropTypes"
+    ]
+  },
+  "use_relative_paths": true
+}
